@@ -1,0 +1,78 @@
+
+3.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	8b 15 29 c5 2e 39    	mov    0x392ec529,%edx
+   6:	89 15 18 c2 04 08    	mov    %edx,0x804c218
+   c:	68 05 8d 04 08       	push   $0x8048d05
+  11:	c3                   	ret    
+
+3.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	8b 15 29 c5 2e 39    	mov    0x392ec529,%edx
+   6:	89 15 18 c2 04 08    	mov    %edx,0x804c218
+   c:	68 05 8d 04 08       	push   $0x8048d05
+  11:	c3                   	ret    
+
+3.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	8b 15 29 c5 2e 39    	mov    0x392ec529,%edx
+   6:	89 15 18 c2 04 08    	mov    %edx,0x804c218
+   c:	68 05 8d 04 08       	push   $0x8048d05
+  11:	c3                   	ret    
+
+3.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	ba 29 c5 2e 39       	mov    $0x392ec529,%edx
+   5:	89 15 18 c2 04 08    	mov    %edx,0x804c218
+   b:	68 05 8d 04 08       	push   $0x8048d05
+  10:	c3                   	ret    
+
+4.o:     file format elf32-i386
+
+
+4.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	b8 29 c5 2e 39       	mov    $0x392ec529,%eax
+   5:	68 ce 8d 04 08       	push   $0x8048dce
+   a:	c3                   	ret    
+
+4.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	b8 29 c5 2e 39       	mov    $0x392ec529,%eax
+   5:	68 81 8e 04 08       	push   $0x8048e81
+   a:	c3                   	ret    
+
+5.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	b8 29 c5 2e 39       	mov    $0x392ec529,%eax
+   5:	8d 6c 24 28          	lea    0x28(%esp),%ebp
+   9:	68 15 8e 04 08       	push   $0x8048e15
+   e:	c3                   	ret    
